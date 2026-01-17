@@ -1,7 +1,7 @@
 # Simple ALU Design
 
-This repository contains a Quartus II lab project (second/third-year course level)
-that implements a basic 8-bit ALU in VHDL. The design also includes a decoder,
+This repository contains a Quartus II lab project that implements a basic 8-bit
+ALU in VHDL. The design also includes a decoder,
 latch, a small FSM, and seven-segment display logic used in the lab exercises.
 
 ## What's inside
